@@ -21,3 +21,5 @@ Feature engineering has been done for graphs involving Time Series and Mortality
 A corrilation matrix has been made which shows strong corrilation of Deaths with Total number of Confirmed cases and Mortality rate etc. which is as expected.
 
 Daily increase in Covid cases in India is plotted using Seaborn and cufflinks
+
+## This model will help in the Covid Patient Testing and Safety Measures by predicting the increase in cases and redirecting the supply of essential medical equipments to required states.
